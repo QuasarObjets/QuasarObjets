@@ -7,3 +7,5 @@
 - 💞️ I am looking to collaborate on real projects that allow me to apply my knowledge in Artificial Intelligence, web development, and microelectronics. I have experience with Copilot and Generative AI to facilitate creative and technical tasks, and with GitHub Copilot to improve efficiency in writing and fixing code.
 
 - ⚡ Fun fact: I am a microelectronics specialist with practical experience in diagnosing and repairing mobile devices. I am currently building a microelectronics laboratory to create free hardware prototypes. If you want to contribute, do so through my github sponsors or patreon profile.
+
+https://github.com/QuasarObjets/QuasarObjets/blob/main/Quasargit.png

@@ -8,4 +8,4 @@
 
 - ⚡ Fun fact: I am a microelectronics specialist with practical experience in diagnosing and repairing mobile devices. I am currently building a microelectronics laboratory to create free hardware prototypes. If you want to contribute, do so through my github sponsors or patreon profile.
 
-! [https://github.com/QuasarObjets] (./Quasargit.png)
+![https://github.com/QuasarObjets] (./Quasargit.png)

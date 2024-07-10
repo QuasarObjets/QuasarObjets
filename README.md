@@ -1,43 +1,32 @@
+# ¡Hola, soy Victor Emmanuel! 👋
 
-# Hello, I'm ByteGuardian! 👋
+## Sobre mí
 
-![https://github.com/QuasarObjets](./victor.jpg)
+Soy un **desarrollador Full Stack Junior** que intenta crear código que no se rompa demasiado. Prometo que a veces funciona. 🤷‍♂️
 
+## Mis Superpoderes 💪
 
-## About me
+- **DevOps Novato**: Como administrador DevOps, hago lo mejor que puedo para que los servidores no exploten. Los servidores están bien pero mi compujtadora suele sentirse como una tostadora. **Siempre está en uso.**
 
-I'm a **Junior Full Stack Developer** trying to create code that doesn't break too much. I promise sometimes it works. 🤷‍♂️
+- **Tester E2E Aventurero**: Pruebo todo, desde la interfaz de usuario hasta la base de datos. Si algo falla, culpo a los gremlins en el código.
 
-## My Superpowers 💪
+## Educación 📚
 
-- **DevOps Newbie**: As a DevOps administrator, I do my best to keep servers from blowing up. The servers are fine but my computer often feels like a toaster. **it is always in use.**
+Estoy estudiando tres carreras de ingeniería al mismo tiempo. Sí, estoy un poco loco:
 
-- **Adventurous E2E Tester**: I test everything from the user interface to the database. If something breaks, I blame the gremlins in the code.
-
-
-### Education 📚
-
-I am studying three engineering degrees at the same time. Yes, I'm a little crazy:
-
-- [Electronic Engineering](https://estudios.unad.edu.co/ingenieria-electronica/) at the Universidad Nacional Abierta Y A Distancia (UNAD)
-- [Artificial Intelligence](https://learn.microsoft.com/es-es/training/career-paths/ai-engineer) Engineering at Microsoft Learning
-- [Security Engineering](https://learn.microsoft.com/es-es/training/career-paths/security-engineer) at Microsoft Learning
+- [Ingeniería Electrónica](https://estudios.unad.edu.co/ingenieria-electronica/) en la Universidad Nacional Abierta Y A Distancia (UNAD)
+- [Inteligencia Artificial](https://learn.microsoft.com/es-es/training/career-paths/ai-engineer) Ingeniería en Microsoft Learning
+- [Ingeniería de Seguridad](https://learn.microsoft.com/es-es/training/career-paths/security-engineer) en Microsoft Learning
 
 
-## Collaboration on Projects 🚀
+## Colaboración en Proyectos 🚀
 
-I'm looking to collaborate on real open source projects that don't make me feel like an imposter. If you have one, let's talk!
+Busco colaborar en proyectos de código abierto reales que no me hagan sentir como un impostor. Si tienes uno, ¡hablemos!
 
+## Dato Curioso ⚡
 
-## Fun Fact ⚡
-
-⚡ I am a **microelectronics** specialist who also knows how to fix the coffee maker when it breaks down. If you want to contribute to my hardware lab, you can do so through my Patreon profile!
+⚡ Soy un especialista en **microelectrónica** que también sabe cómo arreglar la cafetera cuando se descompone. Si quieres contribuir con mi laboratorio de hardware, ¡puedes hacerlo a través de mi perfil de Patreon!
 
 ---
 
 ¡Visita mi página web para más detalles...
-
-
-
-
-![https://github.com/QuasarObjets](./Quasargit.png)

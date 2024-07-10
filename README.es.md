@@ -27,4 +27,6 @@ Busco colaborar en proyectos de código abierto reales que no me hagan sentir co
 
 ⚡ Soy un especialista en **microelectrónica** que también sabe cómo arreglar la cafetera cuando se descompone. Si quieres contribuir con mi laboratorio de hardware, ¡puedes hacerlo a través de mi perfil de Patreon!
 
+---
+
 ¡Visita mi página web para más detalles...

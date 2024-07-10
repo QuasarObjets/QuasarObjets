@@ -1,7 +1,7 @@
 
-# Hello, I'm Victor Emmanuel! 👋
+# Hello, I'm ByteGuardian! 👋
 
-![https://github.com/QuasarObjets](./victor.png)
+![https://github.com/QuasarObjets](./victor.jpg)
 
 
 ## About me

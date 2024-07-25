@@ -15,8 +15,8 @@ Soy un **desarrollador Full Stack Junior** que intenta crear código que no se r
 Estoy estudiando tres carreras de ingeniería al mismo tiempo. Sí, estoy un poco loco:
 
 - [Ingeniería Electrónica](https://estudios.unad.edu.co/ingenieria-electronica/) en la Universidad Nacional Abierta Y A Distancia (UNAD)
-- [Inteligencia Artificial](https://learn.microsoft.com/es-es/training/career-paths/ai-engineer) Ingeniería en Microsoft Learning
-- [Ingeniería de Seguridad](https://learn.microsoft.com/es-es/training/career-paths/security-engineer) en Microsoft Learning
+- [Ingeniería de Inteligencia Artificial](https://learn.microsoft.com/es-es/training/career-paths/ai-engineer) en Microsoft Learning
+- [Ingeniería de Seguridad Informática](https://learn.microsoft.com/es-es/training/career-paths/security-engineer) en Microsoft Learning
 
 
 ## Colaboración en Proyectos 🚀

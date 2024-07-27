@@ -31,7 +31,7 @@ Me considero una persona curiosa y siempre estoy buscando aprender algo nuevo. S
 Arch Linux, Azure Cloud, Azure DevOps, BrowserStack, Docker, ExpressJS, Git, Github, Github Copilot, HUGO, Javascript, Microsoft 365, MongoDB, MySQL, NestJS, NextJS, NodeJS, PostgreSQL, Prisma, Python, ReactJS, React Native, Shadcn UI, SSH, Tailwind CSS, tRPC, TypeScript, V0, VirtualBox, VS Code.
 
 
-## Educación 📚
+## Educación
 
 Estoy cursando tres carreras de ingeniería al mismo tiempo. Sí, estoy un poco loco:
 

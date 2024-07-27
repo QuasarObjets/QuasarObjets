@@ -46,81 +46,49 @@ Estoy cursando tres carreras de ingeniería al mismo tiempo. Sí, estoy un poco 
 **Desarrollador Principal**  
 2024 - Presente  
 Una aplicación web/móvil para ayudar a los estudiantes a encontrar y unirse a grupos de estudio para el aprendizaje colaborativo.  
-**Tecnologías:** T3 Stack, React Native  
-**Etiquetas:** academic, study, collaboration, community, open source
+**Tecnologías:** T3 Stack, React Native
 
 ### Compañero de Estudio
 **Desarrollador Principal**  
 2024 - Presente  
 Una aplicación web/móvil de acompañamiento de estudio que ayuda a los estudiantes a organizar sus horarios de estudio y a seguir su progreso.  
 **Tecnologías:** T3 Stack, React Native  
-**Etiquetas:** study, academic, productivity, community, open source
 
 ### Gestor de Fragmentos de Código
 **Desarrollador Principal**  
 2024 - Presente  
 Una aplicación web/móvil para almacenar, organizar y compartir fragmentos de código para un acceso y reutilización fáciles.  
-**Tecnologías:** T3 Stack, React Native  
-**Etiquetas:** professional, code snippets, organization, development, open source
-
-### Impresora 3D para Prototipos 🔒
-**Gerente de Proyecto de Ingeniería**  
-2024 - Presente  
-Una impresora 3D diseñada específicamente para crear carcasas y envolventes para prototipos electrónicos, mejorando el proceso de desarrollo en ingeniería electrónica.  
-**Etiquetas:** thesis project, 3d printing, prototyping, academic, engineering, electronics, utility
-
-### Extrusora de Plástico para Filamento PET-G 🔒
-**Gerente de Proyecto de Ingeniería**  
-2024 - Presente  
-Una extrusora de plástico que convierte botellas de PET recicladas en filamento PET-G para impresión 3D, promoviendo la sostenibilidad y reduciendo los residuos plásticos.  
-**Etiquetas:** thesis project, recycling, 3d printing, academic, sustainability, engineering, utility
-
-### Máquina Trituradora de PET 🔒
-**Gerente de Proyecto de Ingeniería**  
-2024 - Presente  
-Una máquina diseñada para triturar botellas de PET en pequeños copos, facilitando su procesamiento en una extrusora de plástico.  
-**Etiquetas:** thesis project, engineering, academic, recycling, PET, sustainability, utility
-
-### Sistema de Conversión de Energía Solar 🔒
-**Gerente de Proyecto de Ingeniería**  
-2024 - Presente  
-Un sistema de energía solar diseñado para cargar una batería de 12V, que luego puede usarse para alimentar máquinas compactas de procesamiento de plástico, asegurando un suministro de energía renovable y eficiente.  
-**Etiquetas:** thesis project, solar energy, renewable energy, engineering, academic, sustainability, energy conversion
+**Tecnologías:** T3 Stack, React Native
 
 ### Panel de Análisis de Negocios
 **Desarrollador Principal**  
 2024 - Presente  
 Una aplicación web/móvil para analizar el rendimiento empresarial y generar informes.  
 **Tecnologías:** T3 Stack, React Native  
-**Etiquetas:** professional, management, analytics, business, open source
 
 ### Sistema de Gestión de Inventarios
 **Desarrollador Principal**  
 2024 - Presente  
 Una aplicación web/móvil para rastrear y gestionar inventarios en tiempo real.  
 **Tecnologías:** T3 Stack, React Native  
-**Etiquetas:** professional, inventory, management, organization, open source
 
 ### Apoyo a la Salud Mental
 **Desarrollador Principal**  
 2024 - Presente  
 Una aplicación móvil que proporciona recursos de salud mental, grupos de apoyo y ayuda profesional.  
 **Tecnologías:** MERN Stack, React Native  
-**Etiquetas:** mental health, hobby, support, community, open source
 
 ### Aplicación de Seguimiento de Fitness
 **Desarrollador Principal**  
 2024 - Presente  
 Una aplicación móvil para rastrear actividades de fitness, establecer metas y monitorear el progreso.  
 **Tecnologías:** MERN Stack, React Native  
-**Etiquetas:** fitness, hobby, tracking, health, open source
 
 ### Rastreador de Finanzas Personales
 **Desarrollador Principal**  
 2024 - Presente  
 Una aplicación móvil para rastrear gastos personales, establecer presupuestos y gestionar las finanzas de manera eficiente.  
 **Tecnologías:** MERN Stack, React Native  
-**Etiquetas:** finance, hobby, budgeting, utility, open source
 
 ---
 
